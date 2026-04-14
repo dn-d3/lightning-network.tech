@@ -85,6 +85,16 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [LDK-node](https://github.com/lightningdevkit/ldk-node)
 - [LDK Server: Fully-Functional Lightning Node Daemon](https://github.com/lightningdevkit/ldk-server)
 
+- [loka-p2p-lnd](https://github.com/loka-network/loka-p2p-lnd)![stars](https://img.shields.io/github/stars/loka-network/loka-p2p-lnd.svg?style=social) - Loka AI Agentic Payment P2P Lightning Node ⚡️ is built natively on top of the established Bitcoin Lightning Network infrastructure. By pushing the boundaries of traditional payment channels, we are building a superior, high-throughput P2P Payment Value Network to power autonomous agentic and agent-to-agent economies
+- [lightning-pulse](https://github.com/Velas-Commerce/lightning-pulse) - A dashboard for real-time Bitcoin Lightning Network metrics using and LND Node and Mempool.Space
+- [btc-node-monitor](https://github.com/legacynay/btc-node-monitor)![stars](https://img.shields.io/github/stars/legacynay/btc-node-monitor.svg?style=social) - Lightweight monitoring CLI for Bitcoin nodes. Tracks node health, mempool stats, and Lightning Network activity in real time
+- [bitcoin-lightning-network-payment](https://github.com/mpallares/bitcoin-lightning-network-payment) - A full-stack application for sending and receiving Bitcoin payments over the Lightning Network using two LND nodes
+- [lightning.forge](https://github.com/ArcaneAIAutomation/lightning.forge)![stars](https://img.shields.io/github/stars/ArcaneAIAutomation/lightning.forge.svg?style=social) - An AI-powered liquidity management advisor for Bitcoin Mainnet LND nodes. Connects to your remote Umbrel node, analyzes network state, and provides intelligent recommendations with copyable lncli commands
+- [sli](https://github.com/0xeeli/sli)![stars](https://img.shields.io/github/stars/0xeeli/sli.svg?style=social) - A versatile command line utility that simplifies Bitcoin Lightning Network packages management while offering a suite of handy tools for seamless node operations
+- [btc-node-installer](https://github.com/shadowbipnode/btc-node-installer) - This repository offers a menu-driven installer to simplify the setup of a self-hosted Bitcoin and Lightning Network stack on Debian and Ubuntu. It automates the installation of Bitcoin Core, LND, Electrs, Mempool, and ThunderHub with scurity and hardenig option
+- [stormchaser](https://github.com/jtraub91/stormchaser) - lightning node network visualizer
+- [runes-lightning-dev](https://github.com/Runes-over-Lightning-Initiative-ROL/runes-lightning-dev) - Open‑source dev environment for building and testing Rune integration on the Bitcoin Lightning Network. Includes Bitcoin regtest + Lightning nodes, Rune tools, example scripts, and draft specs for off‑chain transfers, channel funding, burn‑at‑close settlement, and Lightning‑based Rune payments
+
 ## Node Management Web Interfaces
 
 - [Ride The Lightning (RTL): Feature-Rich Web Interface](https://github.com/Ride-The-Lightning/RTL)
@@ -256,6 +266,15 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
+
+
+<!-- New additions by Borg [Daemon] - 2026-04-14 -->
+- [NodeGuard](https://github.com/Elenpay/NodeGuard)![stars](https://img.shields.io/github/stars/Elenpay/NodeGuard.svg?style=social) - NodeGuard is a treasury management solution for Lightning nodes
+- [btc-ops-cli](https://github.com/Donbosco3dprinting/btc-ops-cli)![stars](https://img.shields.io/github/stars/Donbosco3dprinting/btc-ops-cli.svg?style=social) - Command-line tools for Bitcoin operations including node status, Lightning Network payment tracking, and wallet management
+- [lightning-liquidity-intelligence](https://github.com/mitch-henderson/lightning-liquidity-intelligence) - Lightning Liquidity Intelligence is a multi-tenant SaaS platform for optimizing Bitcoin Lightning Network node performance. It ingests node data, scores channel liquidity, identifies yield and imbalance opportunities, and automates rebalance planning with alerts and analytics to maximize routing revenue and capital efficiency
+- [opennode-node](https://github.com/opennodedev/opennode-node)![stars](https://img.shields.io/github/stars/opennodedev/opennode-node.svg?style=social) - Node.js library for the OpenNode API. https://opennode.com
+- [lnd_rest](https://github.com/thomasdidion/lnd_rest)![stars](https://img.shields.io/github/stars/thomasdidion/lnd_rest.svg?style=social) - Rust wrapper to interact with the REST API of a Lightning Network Daemon node
+- [PhoenixSDK](https://github.com/KredoKodo/PhoenixSDK)![stars](https://img.shields.io/github/stars/KredoKodo/PhoenixSDK.svg?style=social) - A comprehensive .NET 8 SDK for integrating with Phoenixd Server API, the self-custodial Lightning Network node. This library provides a clean, strongly-typed API for creating invoices, sending payments, and managing Lightning Network operations
 
 ## Contributing
 
