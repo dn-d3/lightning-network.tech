@@ -70,6 +70,8 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Minibolt: Step-by-Step Guide to Building a Bitcoin & Lightning Node](https://github.com/minibolt-guide/minibolt)
 - [Awning: Portable Docker-Only Bitcoin + Lightning Node](https://github.com/giovantenne/awning)
 - [TunnelSats: Pre-Configured VPN for Lightning Nodes](https://github.com/Tunnelsats/tunnelsats)
+- [sli](https://github.com/0xeeli/sli)![stars](https://img.shields.io/github/stars/0xeeli/sli.svg?style=social) - A versatile command line utility that simplifies Bitcoin Lightning Network packages management while offering a suite of handy tools for seamless node operations
+
 
 ## Managed Cloud Hosting
 
@@ -85,15 +87,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [LDK-node](https://github.com/lightningdevkit/ldk-node)
 - [LDK Server: Fully-Functional Lightning Node Daemon](https://github.com/lightningdevkit/ldk-server)
 
-- [loka-p2p-lnd](https://github.com/loka-network/loka-p2p-lnd)![stars](https://img.shields.io/github/stars/loka-network/loka-p2p-lnd.svg?style=social) - Loka AI Agentic Payment P2P Lightning Node ⚡️ is built natively on top of the established Bitcoin Lightning Network infrastructure. By pushing the boundaries of traditional payment channels, we are building a superior, high-throughput P2P Payment Value Network to power autonomous agentic and agent-to-agent economies
-- [lightning-pulse](https://github.com/Velas-Commerce/lightning-pulse) - A dashboard for real-time Bitcoin Lightning Network metrics using and LND Node and Mempool.Space
-- [btc-node-monitor](https://github.com/legacynay/btc-node-monitor)![stars](https://img.shields.io/github/stars/legacynay/btc-node-monitor.svg?style=social) - Lightweight monitoring CLI for Bitcoin nodes. Tracks node health, mempool stats, and Lightning Network activity in real time
-- [bitcoin-lightning-network-payment](https://github.com/mpallares/bitcoin-lightning-network-payment) - A full-stack application for sending and receiving Bitcoin payments over the Lightning Network using two LND nodes
-- [lightning.forge](https://github.com/ArcaneAIAutomation/lightning.forge)![stars](https://img.shields.io/github/stars/ArcaneAIAutomation/lightning.forge.svg?style=social) - An AI-powered liquidity management advisor for Bitcoin Mainnet LND nodes. Connects to your remote Umbrel node, analyzes network state, and provides intelligent recommendations with copyable lncli commands
-- [sli](https://github.com/0xeeli/sli)![stars](https://img.shields.io/github/stars/0xeeli/sli.svg?style=social) - A versatile command line utility that simplifies Bitcoin Lightning Network packages management while offering a suite of handy tools for seamless node operations
-- [btc-node-installer](https://github.com/shadowbipnode/btc-node-installer) - This repository offers a menu-driven installer to simplify the setup of a self-hosted Bitcoin and Lightning Network stack on Debian and Ubuntu. It automates the installation of Bitcoin Core, LND, Electrs, Mempool, and ThunderHub with scurity and hardenig option
-- [stormchaser](https://github.com/jtraub91/stormchaser) - lightning node network visualizer
-- [runes-lightning-dev](https://github.com/Runes-over-Lightning-Initiative-ROL/runes-lightning-dev) - Open‑source dev environment for building and testing Rune integration on the Bitcoin Lightning Network. Includes Bitcoin regtest + Lightning nodes, Rune tools, example scripts, and draft specs for off‑chain transfers, channel funding, burn‑at‑close settlement, and Lightning‑based Rune payments
 
 ## Node Management Web Interfaces
 
@@ -142,6 +135,7 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [LNC Web: Lightning Node Connect for Web Applications](https://github.com/lightninglabs/lnc-web)
 - [LNDinit: Cloud Infrastructure Tooling for LND Provisioning](https://github.com/lightninglabs/lndinit)
 - [LndHub.go: Accounting Wrapper for Lightning Network (LndHub Compatible)](https://github.com/getAlby/lndhub.go)
+- [lightning-pulse](https://github.com/Velas-Commerce/lightning-pulse) - A dashboard for real-time Bitcoin Lightning Network metrics using and LND Node and Mempool.Space
 
 
 ## Node Services
@@ -155,7 +149,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 ## Channel Management
 
 ### Channel Opening Suggestions
-
 
 - [Lightning Terminal: Channel Management Platform](https://terminal.lightning.engineering/#/)
 - [Lightning Network Autopilot: Automated Channel Management](https://github.com/renepickhardt/lightning-network-autopilot)
@@ -174,9 +167,9 @@ This guide provides a comprehensive list of resources for Lightning Network node
 ## Liquidity Management
 
 ### Inbound Liquidity
-
 - [Comprehensive Inbound Liquidity Guide](https://github.com/openoms/lightning-node-management/blob/master/docs/createinboundliquidity.md)
-
+- [NodeGuard](https://github.com/Elenpay/NodeGuard)![stars](https://img.shields.io/github/stars/Elenpay/NodeGuard.svg?style=social) - NodeGuard is a treasury management solution for Lightning nodes
+- 
 ### Swaps and Exchanges
 
 - [Coinos: Instant Bitcoin-to-Lightning Swaps](https://coinos.io/login)
