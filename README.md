@@ -262,3 +262,26 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/lightning-network.tech).
 
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable for the Lightning Network community.
+
+## Additional Lightning Projects
+
+- [BOLT (Bitcoin Open Lightning Transactions)](https://github.com/lightningnetwork/bolts) - 2233★ - Official Lightning Network specification
+- [rust-lightning](https://github.com/lightningdevkit/rust-lightning) - 1353★ - Rust-based Lightning Network implementation
+- [LNbits](https://github.com/lnbits/lnbits) - 1205★ - Open-source Lightning wallet and payment system
+- [Phoenix](https://github.com/ACINQ/phoenix) - 832★ - Mobile Lightning wallet by ACINQ
+- [LndHub](https://github.com/alexbosworth/LndHub) - 1000★ - Lightning wallet wrapper for LND
+- [Zeus](https://github.com/ZeusLN/zeus) - 1372★ - Lightning node management mobile app
+- [Loop](https://github.com/lightninglabs/loop) - 594★ - Lightning loop-in/loop-out service
+- [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal) - 585★ - All-in-one Lightning node management
+- [Neutrino](https://github.com/lightningnetwork/neutrino) - 973★ - Light client for Lightning Network
+- [Taproot Assets](https://github.com/lightninglabs/taproot-assets) - 516★ - Taproot-based assets on Lightning
+- [chantools](https://github.com/lightningnetwork/chantools) - 239★ - Channel jammed tools for LND
+- [Aperture](https://github.com/lightningnetwork/aperture) - 261★ - LND route bootstrapping
+- [L402](https://github.com/lightningnetwork/L402) - 82★ - Lightning HTTP 402 protocol
+- [lndclient](https://github.com/lightningnetwork/lndclient) - 55★ - Go client for LND
+- [lseed](https://github.com/lightningnetwork/lseed) - 11★ - DNS seed for Lightning nodes
+- [ln-service](https://github.com/alexbosworth/ln-service) - 321★ - TypeScript Lightning service
+- [Polar](https://github.com/janoist1/polar) - 853★ - Visual Docker manager for Lightning
+- [stable-channels](https://github.com/lightningnetwork/stable-channels) - 114★ - Stable channel rebalancing
+- [Bitcoin Transcripts](https://github.com/bitcoin-transcripts/bitcoin-transcripts) - 107★ - Bitcoin conference transcripts
+- [Lightning Browser Extension](https://github.com/getAlby/lightning-browser-extension) - 580★ - Browser WebLN extension
