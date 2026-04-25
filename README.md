@@ -37,6 +37,7 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Lightning Network Node Profitability: PLEBNET Insights](https://www.youtube.com/watch?v=LRZy-VtCPe4)
 - [Running a Lightning Network Node: A Beginner's Journey](https://medium.com/coinmonks/adventures-in-running-a-bitcoin-lightning-node-part-1-the-awakening-61345585acc3)
 - [Mastering Inbound Liquidity: Step-by-Step Guide](https://www.youtube.com/watch?v=WWs1D9LLcpc)
+- [BOLTS: Basis of Lightning Technology](https://github.com/lightning/bolts) ![stars](https://img.shields.io/github/stars/lightning/bolts.svg?style=social)
 
 ## Node Installation
 
@@ -47,6 +48,9 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Bitcoin Kit Makefile: Streamlined Installation](https://github.com/Perlover/bitcoin-kit-makefile)
 - [LND with PostgreSQL Integration](https://github.com/blckbx/lnd_postgres)
 - [Secure LND Setup via VPN](https://github.com/Wired4ncer/lnd_via_vpn)
+- [rust-lightning](https://github.com/lightningdevkit/rust-lightning) ![stars](https://img.shields.io/github/stars/lightningdevkit/rust-lightning.svg?style=social)
+- [ln-service](https://github.com/alexbosworth/ln-service) ![stars](https://img.shields.io/github/stars/alexbosworth/ln-service.svg?style=social)
+- [lndclient](https://github.com/lightninglabs/lndclient) ![stars](https://img.shields.io/github/stars/lightninglabs/lndclient.svg?style=social)
 
 
 ### CLN (Core Lightning)
@@ -54,6 +58,14 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Video Tutorial: Step-by-Step CLN Installation](https://www.youtube.com/watch?v=_Hrnls92TxQ)
 - [RaspiBolt CLN Installation and Configuration](https://raspibolt.org/guide/bonus/lightning/cln.html)
 - [Core Lightning Plugins Repository](https://github.com/lightningd/plugins)
+
+
+### Mobile Wallets
+
+- [LNbits](https://github.com/lnbits/lnbits) ![stars](https://img.shields.io/github/stars/lnbits/lnbits.svg?style=social)
+- [Phoenix](https://github.com/acinq/phoenix) ![stars](https://img.shields.io/github/stars/acinq/phoenix.svg?style=social)
+- [Zeus](https://github.com/zeusln/zeus) ![stars](https://img.shields.io/github/stars/zeusln/zeus.svg?style=social)
+- [LndHub](https://github.com/bluewallet/LndHub) ![stars](https://img.shields.io/github/stars/bluewallet/LndHub.svg?style=social)
 
 ## Backups and Recovery
 
@@ -84,6 +96,22 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Eclair: Scala-based Lightning Implementation](https://github.com/ACINQ/eclair)
 - [LDK-node](https://github.com/lightningdevkit/ldk-node)
 - [LDK Server: Fully-Functional Lightning Node Daemon](https://github.com/lightningdevkit/ldk-server)
+- [Core Lightning](https://github.com/ElementsProject/lightning) ![stars](https://img.shields.io/github/stars/ElementsProject/lightning.svg?style=social)
+- [Eclair](https://github.com/ACINQ/eclair) ![stars](https://img.shields.io/github/stars/ACINQ/eclair.svg?style=social)
+
+## Tools and Services
+
+- [Loop](https://github.com/lightninglabs/loop) ![stars](https://img.shields.io/github/stars/lightninglabs/loop.svg?style=social)
+- [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal) ![stars](https://img.shields.io/github/stars/lightninglabs/lightning-terminal.svg?style=social)
+- [Taproot Assets](https://github.com/lightninglabs/taproot-assets) ![stars](https://img.shields.io/github/stars/lightninglabs/taproot-assets.svg?style=social)
+- [ChanTools](https://github.com/lightninglabs/chantools) ![stars](https://img.shields.io/github/stars/lightninglabs/chantools.svg?style=social)
+- [Aperture](https://github.com/lightninglabs/aperture) ![stars](https://img.shields.io/github/stars/lightninglabs/aperture.svg?style=social)
+- [L402](https://github.com/lightninglabs/L402) ![stars](https://img.shields.io/github/stars/lightninglabs/L402.svg?style=social)
+- [Lseed](https://github.com/lightninglabs/lseed) ![stars](https://img.shields.io/github/stars/lightninglabs/lseed.svg?style=social)
+- [Polar](https://github.com/jamaljsr/polar) ![stars](https://img.shields.io/github/stars/jamaljsr/polar.svg?style=social)
+- [Bitcoin Transcripts](https://github.com/bitcointranscripts/bitcointranscripts) ![stars](https://img.shields.io/github/stars/bitcointranscripts/bitcointranscripts.svg?style=social)
+- [Fedimint](https://github.com/fedimint/fedimint) ![stars](https://img.shields.io/github/stars/fedimint/fedimint.svg?style=social)
+- [Stable Channels](https://github.com/toneloc/stable-channels) ![stars](https://img.shields.io/github/stars/toneloc/stable-channels.svg?style=social)
 
 ## Node Management Web Interfaces
 
