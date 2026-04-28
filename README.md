@@ -262,3 +262,70 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/lightning-network.tech).
 
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable for the Lightning Network community.
+- [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network ⭐ 416
+- [docs.lightning.engineering](https://github.com/lightninglabs/docs.lightning.engineering) - Building lapps, running lnd, and more ⭐ 73
+- [lightning-node-connect](https://github.com/lightninglabs/lightning-node-connect) - No description ⭐ 82
+- [docker-bitcoin-core](https://github.com/lightninglabs/docker-bitcoin-core) - A bitcoin-core docker image ⭐ 14
+- [lightning-api-ng](https://github.com/lightninglabs/lightning-api-ng) - Automated API-documentation generation source code for Lightning Lab's FOSS software suite ⭐ 5
+- [lnc-rn](https://github.com/lightninglabs/lnc-rn) - Lightning Node Connect npm module for React Native ⭐ 7
+- [lnc-core](https://github.com/lightninglabs/lnc-core) - Type definitions and utilities for Lightning Node Connect, leveraged by lnc-web and lnc-rn ⭐ 7
+- [lnd-fuzz](https://github.com/lightninglabs/lnd-fuzz) - No description ⭐ 5
+- [migrate](https://github.com/lightninglabs/migrate) - Database migrations. CLI and Golang library. ⭐ 0
+- [charts](https://github.com/lightninglabs/charts) - No description ⭐ 9
+- [lnget](https://github.com/lightninglabs/lnget) - wget for the pay-per-request web (powered by Lightning Lab's L402 protocol) ⭐ 10
+- [lightning-agent-tools](https://github.com/lightninglabs/lightning-agent-tools) - AI agent toolkit (skills+MCP server) for Lightning Network payments. Run nodes, pay for APIs (L402), host paid endpoints, and manage credentials.  ⭐ 43
+- [ai-docs-sync](https://github.com/lightninglabs/ai-docs-sync) - CLI tool to sync AI guidance from .ai-docs/ to harness-specific outputs (Claude, Cursor, Copilot, Codex, Gemini) ⭐ 0
+- [L402sdk](https://github.com/lightninglabs/L402sdk) - L402 client SDK for AI agent frameworks — pay for APIs with Lightning ⭐ 15
+- [elements](https://github.com/ElementsProject/elements) - Open Source implementation of advanced blockchain features extending the Bitcoin protocol ⭐ 1151
+- [libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets ⭐ 302
+- [filebazaar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Bitcoin & Lightning :zap: ⭐ 124
+- [nanopos](https://github.com/ElementsProject/nanopos) - A simple Lightning :zap: point-of-sale system, powered by Lightning Charge ⭐ 115
+- [rust-elements](https://github.com/ElementsProject/rust-elements) - Rust support for Elements transaction/block deserialization ⭐ 57
+- [peerswap](https://github.com/ElementsProject/peerswap) - No description ⭐ 124
+- [glightning](https://github.com/ElementsProject/glightning) - No description ⭐ 11
+- [ELIPs](https://github.com/ElementsProject/ELIPs) - Elements Improvement proposals ⭐ 15
+- [qa-assets](https://github.com/ElementsProject/qa-assets) - Elements-related blobs used for quality assurance. ⭐ 2
+- [cln-application](https://github.com/ElementsProject/cln-application) - Official core lightning application by Blockstream ⭐ 47
+- [garecovery](https://github.com/Blockstream/garecovery) - GreenAddress recovery tool for 2of2 and 2of3 wallets ⭐ 132
+- [esplora](https://github.com/Blockstream/esplora) - Explorer for Bitcoin and Liquid ⭐ 1226
+- [electrs](https://github.com/Blockstream/electrs) - An efficient re-implementation of Electrum Server in Rust ⭐ 377
+- [gdk](https://github.com/Blockstream/gdk) - Blockstream Green Development Kit ⭐ 195
+- [green_android](https://github.com/Blockstream/green_android) - Blockstream Green Wallet for Android ⭐ 258
+- [green_ios](https://github.com/Blockstream/green_ios) - Blockstream Green Wallet for iOS ⭐ 159
+- [satellite-api](https://github.com/Blockstream/satellite-api) - Blockstream Satellite API ⭐ 37
+- [bitcoin-images](https://github.com/Blockstream/bitcoin-images) - This repository contains some useful Docker images.  ⭐ 22
+- [asset_registry_db](https://github.com/Blockstream/asset_registry_db) - Assets db ⭐ 16
+- [green_cli](https://github.com/Blockstream/green_cli) - Command line wallet for Blockstream Green ⭐ 33
+- [liquid_multisig_issuance](https://github.com/Blockstream/liquid_multisig_issuance) - Issuance of liquid assets with multisig and registry support ⭐ 7
+- [green_qt](https://github.com/Blockstream/green_qt) - Blockstream Green App ⭐ 251
+- [Jade](https://github.com/Blockstream/Jade) - Jade hardware wallet ⭐ 454
+- [blind_pin_server](https://github.com/Blockstream/blind_pin_server) - No description ⭐ 16
+- [greenlight](https://github.com/Blockstream/greenlight) - Build apps using self-custodial lightning nodes in the cloud ⭐ 139
+- [asset_registry_testnet_db](https://github.com/Blockstream/asset_registry_testnet_db) - No description ⭐ 3
+- [app-bitcoin-new](https://github.com/Blockstream/app-bitcoin-new) - Liquid Network application for Ledger hardware wallets ⭐ 1
+- [jadediyflasher](https://github.com/Blockstream/jadediyflasher) - A webpage to flash DIY devices into Jade ⭐ 15
+- [lwk](https://github.com/Blockstream/lwk) - Liquid Wallet Kit ⭐ 105
+- [tinycbor](https://github.com/Blockstream/tinycbor) - Concise Binary Object Representation (CBOR) Library ⭐ 0
+- [lwk-swift](https://github.com/Blockstream/lwk-swift) - No description ⭐ 1
+- [qtkeychain](https://github.com/Blockstream/qtkeychain) - Platform-independent Qt API for storing passwords securely. ⭐ 0
+- [zxing-cpp](https://github.com/Blockstream/zxing-cpp) - C++ port of ZXing ⭐ 0
+- [simplicity-dex](https://github.com/Blockstream/simplicity-dex) - A Distributed Exchange for Simplicity. ⭐ 3
+- [gl-sdk-swift](https://github.com/Blockstream/gl-sdk-swift) - Glue code for swift clients wanting to use the gl-sdk code ⭐ 0
+- [waterfalls](https://github.com/Blockstream/waterfalls) - No description ⭐ 0
+- [simplicity-playground](https://github.com/Blockstream/simplicity-playground) - No description ⭐ 0
+- [simplicity-codespace](https://github.com/Blockstream/simplicity-codespace) - No description ⭐ 0
+- [electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet ⭐ 8455
+- [btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.  ⭐ 7531
+- [damus](https://github.com/damus-io/damus) - iOS nostr client ⭐ 2120
+- [Lightning-map](https://github.com/KlosStepan/Lightning-map) - Lightning Everywhere ⚡ A platform for collecting merchants and e-shops that accept the Lightning Network (Bitcoin L2) as a payment method. ⭐ 6
+- [action-ln](https://github.com/nobe4/action-ln) - Link files between repositories, from GitHub Actions. ⭐ 5
+- [constants-float64-ln-two-pi](https://github.com/stdlib-js/constants-float64-ln-two-pi) - Natural logarithm of 2π. ⭐ 3
+- [stats-base-dists-cosine-logcdf](https://github.com/stdlib-js/stats-base-dists-cosine-logcdf) - Natural logarithm of cumulative distribution function (CDF) for a raised cosine distribution. ⭐ 2
+- [stats-base-dists-lognormal-cdf](https://github.com/stdlib-js/stats-base-dists-lognormal-cdf) - Lognormal distribution cumulative distribution function (CDF). ⭐ 2
+- [stats-base-dists-weibull-logcdf](https://github.com/stdlib-js/stats-base-dists-weibull-logcdf) - Weibull distribution logarithm of cumulative distribution function (CDF). ⭐ 2
+- [stats-base-dists-lognormal-logpdf](https://github.com/stdlib-js/stats-base-dists-lognormal-logpdf) - Natural logarithm of the probability density function (PDF) for a lognormal distribution. ⭐ 2
+- [stats-base-dists-erlang-logpdf](https://github.com/stdlib-js/stats-base-dists-erlang-logpdf) - Natural logarithm of the probability density function (PDF) for an Erlang distribution. ⭐ 2
+- [ln-service](https://github.com/alexbosworth/ln-service) - Node.js interface to LND ⭐ 321
+- [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework ⭐ 4471
+- [LightningFlowComponents](https://github.com/UnofficialSF/LightningFlowComponents) - A collection of unofficial Flow extensions that can be used to enhance Salesforce Flow and Orchestrator. ⭐ 647
+- [pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning) - The Lightning plugin ecosystem provides fast quantum state-vector and tensor network simulators written in C++ for use with PennyLane. ⭐ 135
