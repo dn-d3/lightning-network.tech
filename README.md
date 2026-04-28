@@ -76,7 +76,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Nodl: Professional Bitcoin & Lightning Node Solutions](https://www.nodl.eu/)
 - [Voltage: Cloud-Native Bitcoin Infrastructure](https://voltage.cloud/)
 - [Rizful: Instant Lightning Node](https://rizful.com/)
-- [Greenlight: Self-Custodial Lightning Nodes in the Cloud](https://github.com/Blockstream/greenlight)
 
 ## Lightning Network Implementations
 
@@ -136,7 +135,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Lightning Node Connect: Remote Node Access for LND Applications](https://github.com/lightninglabs/lightning-node-connect)
 - [LNDinit: Cloud Infrastructure Tooling for LND Provisioning](https://github.com/lightninglabs/lndinit)
 - [LndHub.go: Accounting Wrapper for Lightning Network (LndHub Compatible)](https://github.com/getAlby/lndhub.go)
-- [ln-service: Node.js Interface for LND](https://github.com/alexbosworth/ln-service)
 
 
 ## Node Services
@@ -238,7 +236,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Professional Lightning Network Node Rebalancing Tutorial](https://www.youtube.com/watch?v=0r3Th42zfDk)
 - [Comprehensive Bitcoin Lightning Network Node Setup Tutorial](https://www.youtube.com/watch?v=KItleddMYFU)
 - [T-bast's Lightning Network Documentation](https://github.com/t-bast/lightning-docs)
-- [Lightning Engineering Documentation: Official LND and Lightning App Guides](https://github.com/lightninglabs/docs.lightning.engineering)
 - [Interactive Lightning Network Workshop](https://github.com/roeierez/lightning-workshop)
 - [Cyberhub's Lightning Network Resources](https://cyberhubnode.notion.site/cyberhubnode/Cyberhub-Home-34858179510a44)
 
