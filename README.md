@@ -70,7 +70,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Minibolt: Step-by-Step Guide to Building a Bitcoin & Lightning Node](https://github.com/minibolt-guide/minibolt)
 - [Awning: Portable Docker-Only Bitcoin + Lightning Node](https://github.com/giovantenne/awning)
 - [TunnelSats: Pre-Configured VPN for Lightning Nodes](https://github.com/Tunnelsats/tunnelsats)
-- [BTCPay Server: Self-Hosted Bitcoin and Lightning Payment Processor](https://github.com/btcpayserver/btcpayserver)
 
 ## Managed Cloud Hosting
 
@@ -138,7 +137,6 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [LNDinit: Cloud Infrastructure Tooling for LND Provisioning](https://github.com/lightninglabs/lndinit)
 - [LndHub.go: Accounting Wrapper for Lightning Network (LndHub Compatible)](https://github.com/getAlby/lndhub.go)
 - [ln-service: Node.js Interface for LND](https://github.com/alexbosworth/ln-service)
-- [Lightning Agent Tools: AI Agent Toolkit for Lightning Nodes and L402 Payments](https://github.com/lightninglabs/lightning-agent-tools)
 
 
 ## Node Services
