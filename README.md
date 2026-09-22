@@ -70,6 +70,7 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [Minibolt: Step-by-Step Guide to Building a Bitcoin & Lightning Node](https://github.com/minibolt-guide/minibolt)
 - [Awning: Portable Docker-Only Bitcoin + Lightning Node](https://github.com/giovantenne/awning)
 - [TunnelSats: Pre-Configured VPN for Lightning Nodes](https://github.com/Tunnelsats/tunnelsats)
+- [Satoshicortex](https://github.com/IkarusMK/satoshicortex) - Your own Bitcoin and Lightning node — reachable, un-pruned, routing for others. With a world map of your peers, your own mempool view, and news over Tor. Docker Compose, no Docker socket.
 
 ## Managed Cloud Hosting
 
