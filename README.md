@@ -129,6 +129,7 @@ This guide provides a comprehensive list of resources for Lightning Network node
 - [LNDManage: Python-based LND Management Suite](https://github.com/bitromortac/lndmanage)
 - [LNTop: Top-like Monitoring Tool for LND](https://github.com/edouardparis/lntop)
 - [Suez: Channel Rebalancing Script](https://github.com/prusnak/suez)
+- [Lnaudit](https://github.com/NonsoAmadi10/lnaudit) - A security auditing framework for Lightning Network infrastructure. Comprehensive configuration scanning and runtime checks for LND nodes.
 - [LND-ManageJ: Java-based LND Management Tool](https://github.com/C-Otto/lnd-manageJ)
 - [LNDmon: Drop-in LND Monitoring with Prometheus+Grafana](https://github.com/lightninglabs/lndmon)
 - [LNC Web: Lightning Node Connect for Web Applications](https://github.com/lightninglabs/lnc-web)
